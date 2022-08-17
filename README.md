@@ -160,8 +160,6 @@ Tecnologias Utilizadas:
 
 ## <a href="https://github.com/jestebanvelasquez/API-DOGS" target="_blank">Api Dogs</a>🚧🚧
 
-## <a href="https://github.com/jestebanvelasquez/group-project" target="_blank">ArtisApp</a>🚧🚧
-
 Descripcion del Proyecto:
 
 <h4>
@@ -185,7 +183,7 @@ Tecnologias Utilizadas:
   - React
   - React Router Dom
   - Redux
-  - Style/components
+  - Sass
 </h4>
 
 ![Captura de Pantalla 2022-08-17 a la(s) 1 27 20 a  m](https://user-images.githubusercontent.com/67343500/185050109-d0e1d835-ccc6-4d02-b3b2-ed9376424927.png)
@@ -198,6 +196,25 @@ Tecnologias Utilizadas:
 
 
 ## <a href="https://github.com/jestebanvelasquez/Peliculas" target="_blank">Peliculas Henry</a>
+
+Descripcion del Proyecto:
+
+<h4>
+  La idea general fué desarrollar una aplicacion conectada a una api externa, en la cual se puedan ver buscar peliculas por titulo disponibles junto con información relevante de las mismas utilizando la api externa  https://api.thedogapi.com/ y a partir de ella poder, entre otras cosas:
+  
+
+- Buscar peliculas por nombre
+- Ver el detalle de la pelicula
+- Agregar a favoritos
+  
+Tecnologias Utilizadas: 
+  
+  Front:
+  - React
+  - React Router Dom
+  - Redux
+  - Css
+</h4>
 
 ![Captura de Pantalla 2022-08-17 a la(s) 12 50 36 a  m](https://user-images.githubusercontent.com/67343500/185046260-0ab6dd5f-a65f-4896-8f04-ef289d4fa93e.png)
 ![movies2](https://user-images.githubusercontent.com/67343500/185046491-d6ea2e62-15d6-462d-9b69-9a580bf8b139.jpeg)
