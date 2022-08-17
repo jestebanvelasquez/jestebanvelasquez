@@ -6,7 +6,14 @@ const EstebanVelasquez = {
   ```
   
   <h3 align="center">Soy Desarrollador Full Stack, curioso y apasionado por la tecnologia.<br/> Me gusta mucho programar por el hecho que te permite crear 
-, muy entusiasta en aprender nuevas tecnologias para el desarrollo , con miras en aprender lo relacionado a la inteligencia artificial y la ciberseguridad </h3>
+, muy entusiasta en aprender nuevas tecnologias para el desarrollo , con miras en aprender lo relacionado a la inteligencia artificial y la ciberseguridad 
+<br/>
+<br/>
+<br/>
+  
+🧑 Me considero un apasionado de la programación, una persona emprendedora con muchas ideas en el área de la información, una persona apasionada por aprender constantemente nuevas tecnologías y con ganas de nuevos retos. Me encanta tener buenas relaciones, mejorando la comunicación constante. Tengo una búsqueda constante del progreso personal apoyando el desarrollo grupal de mis actividades diarias.
+
+</h3>
   
   ```javascript
   "
@@ -61,14 +68,13 @@ inProgress:[
  ConnectWithMe: [
 ```
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/esteban velasquez martinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban velasquez martinez" height="30" width="40" /></a>
 </p>
 
 ```javascript,
 ],
-
+```
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jestebanvelasquez&show_icons=true&locale=en&layout=compact" alt="jestebanvelasquez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jestebanvelasquez&show_icons=true&locale=en" alt="jestebanvelasquez" /></p>
