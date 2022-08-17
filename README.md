@@ -82,7 +82,12 @@ inProgress:[
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jestebanvelasquez&" alt="jestebanvelasquez" /></p>
 
 
+```javascript,
+],
+  
+ Proyects: [
+```
 
-
+## Proyects
 
 ## <a href="https://github.com/jestebanvelasquez/Peliculas" target="_blank">Peliculas Henry</a>
