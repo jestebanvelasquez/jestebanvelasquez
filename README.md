@@ -90,6 +90,10 @@ inProgress:[
 ## Pojects
 
 ## <a href="https://github.com/jestebanvelasquez/group-project" target="_blank">ArtisApp</a>🚧🚧
+![Captura de Pantalla 2022-08-17 a la(s) 1 42 31 a  m](https://user-images.githubusercontent.com/67343500/185052286-db6677bc-353d-4e07-8af8-c9718cf343fc.png)
+![Captura de Pantalla 2022-08-17 a la(s) 1 42 53 a  m](https://user-images.githubusercontent.com/67343500/185052326-64eee570-0a58-4aed-b243-916176aa05ed.png)
+![Captura de Pantalla 2022-08-17 a la(s) 1 42 43 a  m](https://user-images.githubusercontent.com/67343500/185052341-f3e2fd07-b932-44c6-9c94-11e210124445.png)
+![Captura de Pantalla 2022-08-17 a la(s) 1 43 08 a  m](https://user-images.githubusercontent.com/67343500/185052365-d4947a0c-9452-4fd5-98d4-3f9f81e08350.png)
 
 
 ## <a href="https://github.com/jestebanvelasquez/Videogames" target="_blank">Videogames Henry</a
