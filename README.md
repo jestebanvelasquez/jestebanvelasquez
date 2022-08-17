@@ -99,7 +99,7 @@ Descripcion del Proyecto:
   
 Tecnologias Utilizadas: 
   
-    Back:
+   Back:
   
   - Postgres
   - Express
@@ -107,7 +107,7 @@ Tecnologias Utilizadas:
   - Prisma
   - Json Web Token
   
-  Front:
+   Front:
   
   - React
   - React Router Dom
