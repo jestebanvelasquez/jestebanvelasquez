@@ -90,6 +90,33 @@ inProgress:[
 ## Pojects
 
 ## <a href="https://github.com/jestebanvelasquez/group-project" target="_blank">ArtisApp</a>🚧🚧
+
+Descripcion del Proyecto:
+
+<h4>
+  La idea general es desarrollar una app que permita conectar a un usuario con un show artistico, donde el usuario podrá crear una cuenta y loggearse para contratar los servicios de diferentes shows artisticos de la ciudad, implementando un sistema de pago. Ademas el artista podrá al igual registrarse y crear los eventos que ofrecera en la app, se contará con un panel de administracion que servira para darle el manejo a decuado y seguimiento a la ejecucion de la app
+  
+  
+Tecnologias Utilizadas: 
+  
+    Back:
+  
+  - Postgres
+  - Express
+  - Typescript
+  - Prisma
+  - Json Web Token
+  
+  Front:
+  
+  - React
+  - React Router Dom
+  - Redux Toolkit
+  - Tailwindcss
+  - Typescript
+  - Stripe
+</h4>
+
 ![Captura de Pantalla 2022-08-17 a la(s) 1 42 31 a  m](https://user-images.githubusercontent.com/67343500/185052286-db6677bc-353d-4e07-8af8-c9718cf343fc.png)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 42 53 a  m](https://user-images.githubusercontent.com/67343500/185052326-64eee570-0a58-4aed-b243-916176aa05ed.png)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 42 43 a  m](https://user-images.githubusercontent.com/67343500/185052341-f3e2fd07-b932-44c6-9c94-11e210124445.png)
@@ -97,6 +124,32 @@ inProgress:[
 
 
 ## <a href="https://github.com/jestebanvelasquez/Videogames" target="_blank">Videogames Henry</a
+
+Descripcion del Proyecto:
+
+<h4>
+  La idea general fué desarrollar una aplicacion con una base de datos en la cual se puedan ver los distintos videojuegos disponibles junto con información relevante de los mismos utilizando la api externa [rawg](https://rawg.io/apidocs) y a partir de ella poder, entre otras cosas:
+  
+
+- Buscar videjuegos
+- Filtrarlos / Ordenarlos
+- Agregar nuevos videojuegos
+- Eliminar videojuegos
+  
+Tecnologias Utilizadas: 
+  
+    Back:
+  - Postgres
+  - express
+  - NodeJs
+  - sequelize
+  
+  Front:
+  - React
+  - React Router Dom
+  - Redux
+  - Style/components
+</h4>
 
   ![Captura de Pantalla 2022-08-17 a la(s) 1 19 03 a  m](https://user-images.githubusercontent.com/67343500/185048498-e3358665-8c8e-48cf-ad53-22a14e1e571a.png)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 18 15 a  m](https://user-images.githubusercontent.com/67343500/185048230-cd260571-8293-4827-ac5e-ebf57b4d2a49.png)
