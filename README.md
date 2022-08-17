@@ -75,7 +75,7 @@ inProgress:[
 ```javascript,
 ],
 ```
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jestebanvelasquez&show_icons=true&locale=en&layout=compact" alt="jestebanvelasquez" /></p>
+<p><img align="center" width=300px src="https://github-readme-stats.vercel.app/api/top-langs?username=jestebanvelasquez&show_icons=true&locale=en&layout=compact" alt="jestebanvelasquez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jestebanvelasquez&show_icons=true&locale=en" alt="jestebanvelasquez" /></p>
 
@@ -124,7 +124,7 @@ Tecnologias Utilizadas:
 ![Captura de Pantalla 2022-08-17 a la(s) 1 43 08 a  m](https://user-images.githubusercontent.com/67343500/185052365-d4947a0c-9452-4fd5-98d4-3f9f81e08350.png)
 
 
-## <a href="https://github.com/jestebanvelasquez/Videogames" target="_blank">Videogames Henry</a
+## <a href="https://github.com/jestebanvelasquez/Videogames" target="_blank"> Videogames Henry </a>
 
 Descripcion del Proyecto:
 
