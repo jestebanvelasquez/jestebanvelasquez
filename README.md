@@ -88,8 +88,14 @@ inProgress:[
  Proyects: [
 ```
 
-## Proyects
+## in Progress
 
-## <a href="https://github.com/jestebanvelasquez/Videogames" target="_blank">Videogames Henry</a>
+## <a href="https://github.com/jestebanvelasquez/group-project" target="_blank">ArtisApp</a>🚧🚧
+
+## <a href="https://github.com/jestebanvelasquez/API-DOGS" target="_blank">Api Dogs</a>🚧🚧
+
+## Completed Work
+
+## <a href="https://github.com/jestebanvelasquez/Videogames" target="_blank">Videogames Henry</a
 
 ## <a href="https://github.com/jestebanvelasquez/Peliculas" target="_blank">Peliculas Henry</a>
