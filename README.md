@@ -75,11 +75,11 @@ inProgress:[
 ```javascript,
 ],
 ```
-<p><img align="center" width=300px src="https://github-readme-stats.vercel.app/api/top-langs?username=jestebanvelasquez&show_icons=true&locale=en&layout=compact" alt="jestebanvelasquez" /></p>
+<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=jestebanvelasquez&show_icons=true&locale=en&layout=compact" alt="jestebanvelasquez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jestebanvelasquez&show_icons=true&locale=en" alt="jestebanvelasquez" /></p>
+<p>&nbsp;<img align="center" width="400"  src="https://github-readme-stats.vercel.app/api?username=jestebanvelasquez&show_icons=true&locale=en" alt="jestebanvelasquez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jestebanvelasquez&" alt="jestebanvelasquez" /></p>
+<p><img align="center" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=jestebanvelasquez&" alt="jestebanvelasquez" /></p>
 
 
 ```javascript,
