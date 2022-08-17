@@ -160,6 +160,34 @@ Tecnologias Utilizadas:
 
 ## <a href="https://github.com/jestebanvelasquez/API-DOGS" target="_blank">Api Dogs</a>🚧🚧
 
+## <a href="https://github.com/jestebanvelasquez/group-project" target="_blank">ArtisApp</a>🚧🚧
+
+Descripcion del Proyecto:
+
+<h4>
+  La idea general fué desarrollar una aplicacion con una base de datos en la cual se puedan ver las distintas razas de perros disponibles junto con información relevante de los mismos utilizando la api externa  https://api.thedogapi.com/ y a partir de ella poder, entre otras cosas:
+  
+
+- Buscar razas de perros
+- Filtrarlos / Ordenarlos
+- Agregar nuevas razas de perros
+- Eliminar razas de perros
+  
+Tecnologias Utilizadas: 
+  
+    Back:
+  - Postgres
+  - express
+  - NodeJs
+  - sequelize
+  
+  Front:
+  - React
+  - React Router Dom
+  - Redux
+  - Style/components
+</h4>
+
 ![Captura de Pantalla 2022-08-17 a la(s) 1 27 20 a  m](https://user-images.githubusercontent.com/67343500/185050109-d0e1d835-ccc6-4d02-b3b2-ed9376424927.png)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 30 13 a  m](https://user-images.githubusercontent.com/67343500/185050131-ae33c120-dfdc-4867-8236-6b07a4feb81b.png)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 29 43 a  m](https://user-images.githubusercontent.com/67343500/185050144-66fe9969-d55b-4017-be99-7d99c2d49eaa.png)
