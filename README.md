@@ -106,6 +106,7 @@ Tecnologias Utilizadas:
   - Typescript
   - Prisma
   - Json Web Token
+  - Stripe
   
    Front:
   
