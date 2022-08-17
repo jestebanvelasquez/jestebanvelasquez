@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <!--
-**jestebanvelasquez/jestebanvelasquez** is a ✨ _special_ ✨ reposit![git](https://user-images.githubusercontent.com/67343500/185014666-d0a882ab-bc17-434e-a99b-3fc9186a9801.gif)
+**jestebanvelasquez/jestebanvelasquez** is a ✨ _special_ ✨ 
 ory because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:![git](https://user-images.githubusercontent.com/67343500/185014701-73972d65-9372-4def-88e0-89bfc2a15508.gif)
+Here are some ideas to get you started:!
 
 
 - 🔭 I’m currently working on ...
