@@ -85,16 +85,31 @@ inProgress:[
 ```javascript,
 ],
   
- Proyects: [
+ Projects: [
 ```
-## Completed Work
+## Pojects
+
+## <a href="https://github.com/jestebanvelasquez/group-project" target="_blank">ArtisApp</a>🚧🚧
+
 
 ## <a href="https://github.com/jestebanvelasquez/Videogames" target="_blank">Videogames Henry</a
-  ![Captura de Pantalla 2022-08-17 a la(s) 1 19 03 a  m](https://user-images.githubusercontent.com/67343500/185048498-e3358665-8c8e-48cf-ad53-22a14e1e571a.png)
 
+  ![Captura de Pantalla 2022-08-17 a la(s) 1 19 03 a  m](https://user-images.githubusercontent.com/67343500/185048498-e3358665-8c8e-48cf-ad53-22a14e1e571a.png)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 18 15 a  m](https://user-images.githubusercontent.com/67343500/185048230-cd260571-8293-4827-ac5e-ebf57b4d2a49.png)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 19 47 a  m](https://user-images.githubusercontent.com/67343500/185048428-3d66582f-9228-4c41-8df8-821e9e89cb24.png)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 19 30 a  m](https://user-images.githubusercontent.com/67343500/185048478-eb642a0c-c68d-4c6b-8e40-d4d04f155037.png)
+
+
+
+## <a href="https://github.com/jestebanvelasquez/API-DOGS" target="_blank">Api Dogs</a>🚧🚧
+
+![Captura de Pantalla 2022-08-17 a la(s) 1 27 20 a  m](https://user-images.githubusercontent.com/67343500/185050109-d0e1d835-ccc6-4d02-b3b2-ed9376424927.png)
+![Captura de Pantalla 2022-08-17 a la(s) 1 30 13 a  m](https://user-images.githubusercontent.com/67343500/185050131-ae33c120-dfdc-4867-8236-6b07a4feb81b.png)
+![Captura de Pantalla 2022-08-17 a la(s) 1 29 43 a  m](https://user-images.githubusercontent.com/67343500/185050144-66fe9969-d55b-4017-be99-7d99c2d49eaa.png)
+
+
+
+
 
 
 ## <a href="https://github.com/jestebanvelasquez/Peliculas" target="_blank">Peliculas Henry</a>
@@ -102,17 +117,5 @@ inProgress:[
 ![Captura de Pantalla 2022-08-17 a la(s) 12 50 36 a  m](https://user-images.githubusercontent.com/67343500/185046260-0ab6dd5f-a65f-4896-8f04-ef289d4fa93e.png)
 ![movies2](https://user-images.githubusercontent.com/67343500/185046491-d6ea2e62-15d6-462d-9b69-9a580bf8b139.jpeg)
 ![Captura de Pantalla 2022-08-17 a la(s) 1 09 04 a  m](https://user-images.githubusercontent.com/67343500/185047120-3207d02a-cad8-4056-9a93-a45cf9b51d3e.jpg)
-
-## in Progress
-
-## <a href="https://github.com/jestebanvelasquez/group-project" target="_blank">ArtisApp</a>🚧🚧
-![Captura de Pantalla 2022-08-17 a la(s) 1 27 20 a  m](https://user-images.githubusercontent.com/67343500/185050109-d0e1d835-ccc6-4d02-b3b2-ed9376424927.png)
-![Captura de Pantalla 2022-08-17 a la(s) 1 30 13 a  m](https://user-images.githubusercontent.com/67343500/185050131-ae33c120-dfdc-4867-8236-6b07a4feb81b.png)
-![Captura de Pantalla 2022-08-17 a la(s) 1 29 43 a  m](https://user-images.githubusercontent.com/67343500/185050144-66fe9969-d55b-4017-be99-7d99c2d49eaa.png)
-
-
-## <a href="https://github.com/jestebanvelasquez/API-DOGS" target="_blank">Api Dogs</a>🚧🚧
-
-
 
 
