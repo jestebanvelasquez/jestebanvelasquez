@@ -5,13 +5,7 @@ const EstebanVelasquez = {
   description:" 
   ```
   
-  <h3 align="center">Soy Desarrollador Full Stack, curioso y apasionado por la tecnologia.<br/> Me gusta mucho programar por el hecho que te permite crear 
-, muy entusiasta en aprender nuevas tecnologias para el desarrollo , con miras en aprender lo relacionado a la inteligencia artificial y la ciberseguridad 
-<br/>
-<br/>
-<br/>
-  
-🧑 Me considero un apasionado de la programación, una persona emprendedora con muchas ideas en el área de la información, una persona apasionada por aprender constantemente nuevas tecnologías y con ganas de nuevos retos. Me encanta tener buenas relaciones, mejorando la comunicación constante. Tengo una búsqueda constante del progreso personal apoyando el desarrollo grupal de mis actividades diarias.
+  <h3 align="center">Desarrollador Full Stack, con experiencia en creación y diseño de aplicaciones y paginas web. Capacitado e interesado por la actualización constante de nuevas tecnologías, análisis de datos, y manejo de la inteligencia artificial. 
 
 </h3>
   
