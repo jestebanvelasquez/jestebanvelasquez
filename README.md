@@ -222,5 +222,7 @@ Tecnologias Utilizadas:
 ![Captura de Pantalla 2022-08-17 a la(s) 1 09 04 a  m](https://user-images.githubusercontent.com/67343500/185047120-3207d02a-cad8-4056-9a93-a45cf9b51d3e.jpg)
 
 ```javascript,
-],
+]
+
+}
 ```
