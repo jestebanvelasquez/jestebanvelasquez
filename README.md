@@ -5,7 +5,7 @@ const EstebanVelasquez = {
   description:" 
   ```
   
-  <h3 align="center">Desarrollador Full Stack, con experiencia en creación y diseño de aplicaciones y paginas web. Capacitado e interesado por la actualización constante de nuevas tecnologías, análisis de datos, y manejo de la inteligencia artificial. 
+  <h3 align="center">Desarrollador Full Stack, con experiencia en creación y diseño de aplicaciones y paginas web. Capacitado e interesado por la actualización constante de nuevas tecnologías, análisis de datos, y desarrollo de la inteligencia artificial. 
 
 </h3>
   
