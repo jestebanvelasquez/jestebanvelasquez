@@ -83,7 +83,7 @@ inProgress:[
 ```
 ## Projects
 
-## <a href="https://github.com/jestebanvelasquez/group-project" target="_blank">ArtisApp</a>🚧🚧
+## <a href="https://github.com/jestebanvelasquez/ArtisUp" target="_blank">ArtisApp</a>🚧🚧
 
 Descripcion del Proyecto:
 
