@@ -83,6 +83,39 @@ inProgress:[
 ```
 ## Projects
 
+## <a href="https://github.com/GaRev98/MedicApp</a>
+
+Descripcion del Proyecto:
+ <h4>
+  
+  Se desarrollo una app  que permite conectar pacientes con medicos de la zona, donde el paciente puede conocer la agenda del medico, reservar una cita, 
+  pagar y generar un recibo con el cual se le notificará al medico elegido. 
+  
+  La app cuenta con panel de paciente, medico y admin, donde podran modificar sus perfiles y ver la actividad en la pagina. Tambien cuenta con un panel     administrativo, en el cual se puede verificar la actividad de casa usuario, medico y nuevos administradores. Segun su actividad y comportamiento se       podrá banear a cualquier usuario, restringiendo su acceso a la app. al igual llevar a cabo la administracion de la pagina, sus servicios generados,       pagados y toda su actividad financiera. 
+ 
+  
+Tecnologias Utilizadas: 
+  
+   Back:
+  
+  - Postgres
+  - Express
+  - MongoDb
+  - Nodemailer
+  - Json Web Token
+  - Stripe
+  
+   Front:
+  
+  - React
+  - React Router Dom
+  - Redux Toolkit
+  - Tailwindcss
+  - Google-login
+  - Stripe
+</h4>
+
+
 ## <a href="https://github.com/jestebanvelasquez/ArtisUp" target="_blank">ArtistUp</a>🚧🚧
 
 Descripcion del Proyecto:
@@ -110,6 +143,7 @@ Tecnologias Utilizadas:
   - Tailwindcss
   - Typescript
   - Stripe
+  
 </h4>
 
 ![Captura de Pantalla 2022-08-17 a la(s) 1 42 31 a  m](https://user-images.githubusercontent.com/67343500/185052286-db6677bc-353d-4e07-8af8-c9718cf343fc.png)
