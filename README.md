@@ -85,6 +85,9 @@ inProgress:[
 
 ## <a href="https://github.com/GaRev98/MedicApp"> MedicApp</a>
 
+## <a href="https://medic-app-pf.vercel.app/"> Demo</a>
+
+
 Descripcion del Proyecto:
  <h4>
   
@@ -115,14 +118,15 @@ Tecnologias Utilizadas:
   - Stripe
 </h4>
 
-![Captura de Pantalla 2022-09-27 a la(s) 8 23 35 p  m](https://user-images.githubusercontent.com/67343500/192668324-6daae55d-e049-4c0f-98e6-279cccdc61c8.png)
-![Captura de Pantalla 2022-09-27 a la(s) 8 25 24 p  m](https://user-images.githubusercontent.com/67343500/192668348-509f0bb4-89b4-4014-bfb4-2c23ca44067f.png)
-![Captura de Pantalla 2022-09-27 a la(s) 8 24 54 p  m](https://user-images.githubusercontent.com/67343500/192668358-7fbaa8fb-fe12-485f-9b0a-777d3888b351.png)
-![Captura de Pantalla 2022-09-27 a la(s) 8 23 58 p  m](https://user-images.githubusercontent.com/67343500/192668371-e11651d3-3774-4dcd-a08
-![Captura de Pantalla 2022-09-27 a la(s) 8 24 17 p  m](https://user-images.githubusercontent.com/67343500/192668377-c5a0083c-6b03-4502-965c-24a509235ae0.png)
-0-01459ee754eb.png)
+![Captura de Pantalla 2022-09-27 a la(s) 8 23 35 p  m](https://user-images.githubusercontent.com/67343500/192668623-7aad2437-673c-4f05-bd0c-32941df931a9.png)
 
+![Captura de Pantalla 2022-09-27 a la(s) 8 25 24 p  m](https://user-images.githubusercontent.com/67343500/192668632-9a49af38-0c5c-498c-9d6c-1e8e895272b2.png)
 
+![Captura de Pantalla 2022-09-27 a la(s) 8 23 58 p  m](https://user-images.githubusercontent.com/67343500/192668649-4635375f-cd69-48e0-b6d9-4b21f438da19.png)
+
+![Captura de Pantalla 2022-09-27 a la(s) 8 24 54 p  m](https://user-images.githubusercontent.com/67343500/192668696-aa2b8b48-99b4-4051-a9a5-2224892c9dd7.png)
+
+![Captura de Pantalla 2022-09-27 a la(s) 8 24 17 p  m](https://user-images.githubusercontent.com/67343500/192668669-030cb024-aead-43ec-85d2-18db1fee6851.png)
 
 
 
