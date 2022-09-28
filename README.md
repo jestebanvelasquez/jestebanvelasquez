@@ -83,7 +83,7 @@ inProgress:[
 ```
 ## Projects
 
-## <a href="https://github.com/GaRev98/MedicApp</a>
+## <a href="https://github.com/GaRev98/MedicApp"> MedicApp</a>
 
 Descripcion del Proyecto:
  <h4>
@@ -114,6 +114,17 @@ Tecnologias Utilizadas:
   - Google-login
   - Stripe
 </h4>
+
+![Captura de Pantalla 2022-09-27 a la(s) 8 23 35 p  m](https://user-images.githubusercontent.com/67343500/192668324-6daae55d-e049-4c0f-98e6-279cccdc61c8.png)
+![Captura de Pantalla 2022-09-27 a la(s) 8 25 24 p  m](https://user-images.githubusercontent.com/67343500/192668348-509f0bb4-89b4-4014-bfb4-2c23ca44067f.png)
+![Captura de Pantalla 2022-09-27 a la(s) 8 24 54 p  m](https://user-images.githubusercontent.com/67343500/192668358-7fbaa8fb-fe12-485f-9b0a-777d3888b351.png)
+![Captura de Pantalla 2022-09-27 a la(s) 8 23 58 p  m](https://user-images.githubusercontent.com/67343500/192668371-e11651d3-3774-4dcd-a08
+![Captura de Pantalla 2022-09-27 a la(s) 8 24 17 p  m](https://user-images.githubusercontent.com/67343500/192668377-c5a0083c-6b03-4502-965c-24a509235ae0.png)
+0-01459ee754eb.png)
+
+
+
+
 
 
 ## <a href="https://github.com/jestebanvelasquez/ArtisUp" target="_blank">ArtistUp</a>🚧🚧
