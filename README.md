@@ -160,6 +160,7 @@ Tecnologias Utilizadas:
   - Stripe
   
 </h4>
+
 ![Captura de Pantalla 2022-10-06 a la(s) 12 06 06 a  m](https://user-images.githubusercontent.com/67343500/194219309-453077c8-37b1-4cfa-b6f7-f7767933d7b3.png)
 
 ![Captura de Pantalla 2022-10-06 a la(s) 12 06 33 a  m](https://user-images.githubusercontent.com/67343500/194219323-def075c6-4f94-4a01-9169-36e8f02b9fba.png)
