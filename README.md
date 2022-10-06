@@ -160,11 +160,12 @@ Tecnologias Utilizadas:
   - Stripe
   
 </h4>
+![Captura de Pantalla 2022-10-06 a la(s) 12 06 06 a  m](https://user-images.githubusercontent.com/67343500/194219309-453077c8-37b1-4cfa-b6f7-f7767933d7b3.png)
+![Captura de Pantalla 2022-10-06 a la(s) 12 06 33 a  m](https://user-images.githubusercontent.com/67343500/194219323-def075c6-4f94-4a01-9169-36e8f02b9fba.png)
+![Captura de Pantalla 2022-10-06 a la(s) 12 08 14 a  m](https://user-images.githubusercontent.com/67343500/194219335-6299c812-2b1d-405c-a093-40079ada889a.png)
+![Captura de Pantalla 2022-10-06 a la(s) 12 08 41 a  m](https://user-images.githubusercontent.com/67343500/194219340-d3311a86-c0fb-423a-83c3-cb032b91c686.png)
 
-![Captura de Pantalla 2022-08-17 a la(s) 1 42 31 a  m](https://user-images.githubusercontent.com/67343500/185052286-db6677bc-353d-4e07-8af8-c9718cf343fc.png)
-![Captura de Pantalla 2022-08-17 a la(s) 1 42 53 a  m](https://user-images.githubusercontent.com/67343500/185052326-64eee570-0a58-4aed-b243-916176aa05ed.png)
-![Captura de Pantalla 2022-08-17 a la(s) 1 42 43 a  m](https://user-images.githubusercontent.com/67343500/185052341-f3e2fd07-b932-44c6-9c94-11e210124445.png)
-![Captura de Pantalla 2022-08-17 a la(s) 1 43 08 a  m](https://user-images.githubusercontent.com/67343500/185052365-d4947a0c-9452-4fd5-98d4-3f9f81e08350.png)
+
 
 
 ## <a href="https://github.com/jestebanvelasquez/Videogames" target="_blank"> Videogames Henry </a>
