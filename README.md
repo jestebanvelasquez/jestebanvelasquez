@@ -131,7 +131,7 @@ Tecnologias Utilizadas:
 
 
 
-## <a href="https://github.com/jestebanvelasquez/ArtisUp" target="_blank">ArtistUp</a>🚧🚧
+## <a href="https://github.com/jestebanvelasquez/ArtisUp" target="_blank">Events App</a>🚧🚧
 
 Descripcion del Proyecto:
 
