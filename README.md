@@ -133,6 +133,8 @@ Tecnologias Utilizadas:
 
 ## <a href="https://github.com/jestebanvelasquez/ArtisUp" target="_blank">Events App</a>🚧🚧
 
+## <a href="https://events-app-eta.vercel.app/user/home"> Demo</a>
+
 Descripcion del Proyecto:
 
 <h4>
