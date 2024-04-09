@@ -10,7 +10,7 @@ const EstebanVelasquez = {
 </h3>
   
   ```javascript
-  "
+  ",
   languagesAndTools:[
   ```
 
@@ -49,7 +49,7 @@ inProgress:[
 </p>
 
 ```javascript,
-]
+],
   
  trophy:[ 
 ```
