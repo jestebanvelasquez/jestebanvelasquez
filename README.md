@@ -7,7 +7,7 @@ README.md (GitHub Profile)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0D1117&text=%3CTU_USUARIO%3E&fontColor=E6EDF3&fontAlign=50&fontSize=36&desc=repo%20telemetry%20%E2%80%A2%20stats%20only&descAlign=50&descSize=14" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0D1117&text=%3Cjestebanvelasquez%3E&fontColor=E6EDF3&fontAlign=50&fontSize=36&desc=repo%20telemetry%20%E2%80%A2%20stats%20only&descAlign=50&descSize=14" width="100%" alt="header" />
 
 </div>
 
